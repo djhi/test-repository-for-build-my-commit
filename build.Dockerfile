@@ -1,6 +1,6 @@
 from ubuntu
 
-VOLUME .:/srv
+WORKDIR /srv
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
     make \
