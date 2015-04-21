@@ -1,3 +1,3 @@
 # test-repository-for-build-my-commit
 
-update 5
+update 6
