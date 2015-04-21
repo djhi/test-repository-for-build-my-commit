@@ -1,0 +1,3 @@
+from ubuntu
+
+VOLUME .:/srv
