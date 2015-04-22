@@ -1,3 +1,3 @@
 # test-repository-for-build-my-commit
 
-update 17
+update 18
