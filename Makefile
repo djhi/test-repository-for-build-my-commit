@@ -1,3 +1,3 @@
 build:
 	mkdir build
-	touch build/output.js
+	echo "$(date +"%m_%d_%Y")" > build/output.js
